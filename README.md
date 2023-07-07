@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL:
-    [Add solution URL here](https://adorable-lokum-7a70db.netlify.app/)
+-   [Solution URL:](https://adorable-lokum-7a70db.netlify.app/)
 
 ## My process
 
