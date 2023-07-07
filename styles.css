@@ -170,16 +170,13 @@ footer{
     }
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 2050px) {
 
     .image-container{
         flex-basis: 60%;
     }
 
     .text-container{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: flex-start;
+        padding-top: 10%;
     }
 }
